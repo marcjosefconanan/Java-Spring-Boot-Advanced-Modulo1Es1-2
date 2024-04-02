@@ -1,0 +1,5 @@
+com\Interceptor\Middleware1\Interceptor\Middleware1\interceptorsMiddleware\APILoggingInterceptor.class
+com\Interceptor\Middleware1\Interceptor\Middleware1\Controller\LegacyController.class
+com\Interceptor\Middleware1\Interceptor\Middleware1\Controller\BasicController.class
+com\Interceptor\Middleware1\Interceptor\Middleware1\InterceptorMiddleware01Application.class
+com\Interceptor\Middleware1\Interceptor\Middleware1\interceptorsMiddleware\LegacyIntercepotr.class

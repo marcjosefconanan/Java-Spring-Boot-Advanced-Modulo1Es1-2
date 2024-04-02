@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Interceptor.Middleware1.Interceptor.Middleware1.InterceptorMiddleware01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.03 s -- in com.Interceptor.Middleware1.Interceptor.Middleware1.InterceptorMiddleware01ApplicationTests
